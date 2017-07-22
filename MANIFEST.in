@@ -1,0 +1,2 @@
+graft pinon/templates
+graft pinon/static
